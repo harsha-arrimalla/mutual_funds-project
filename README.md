@@ -28,6 +28,12 @@ Facts-only FAQ chatbot for selected INDMoney mutual fund scheme pages.
    streamlit run app.py
    ```
 
+## Deploy on Render
+1. Push this repository to GitHub (already done).
+2. In Render Dashboard, create a new Blueprint and select this repo.
+3. Render will detect `render.yaml` and create one web service.
+4. Deploy and open the generated service URL.
+
 ## Architecture
 1. **Data layer** (`data/funds.json`, `data/funds.csv`)
    - Stores factual fields per scheme:
