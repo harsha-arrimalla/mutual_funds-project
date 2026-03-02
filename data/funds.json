@@ -1,0 +1,117 @@
+[
+  {
+    "fund_name": "HDFC Large Cap Fund Direct Plan Growth Option",
+    "amc": "HDFC Mutual Fund",
+    "category": "Large-Cap",
+    "expense_ratio": "1%",
+    "exit_load": "1%",
+    "minimum_sip": "₹100",
+    "minimum_lump_sum": "₹100",
+    "lock_in_period": "0",
+    "riskometer": "Moderate",
+    "benchmark_index": "S&P BSE 100 TR INR",
+    "last_updated_date": "25 Feb 2026",
+    "source_url": "https://www.indmoney.com/mutual-funds/hdfc-large-cap-fund-direct-plan-growth-option-2989",
+    "aliases": [
+      "hdfc large cap fund",
+      "hdfc large cap",
+      "hdfc large cap fund direct growth"
+    ]
+  },
+  {
+    "fund_name": "HDFC Flexi Cap Fund Direct Plan Growth Option",
+    "amc": "HDFC Mutual Fund",
+    "category": "Flexi Cap",
+    "expense_ratio": "0.8%",
+    "exit_load": "1%",
+    "minimum_sip": "₹100",
+    "minimum_lump_sum": "₹100",
+    "lock_in_period": "0",
+    "riskometer": "Very High",
+    "benchmark_index": "NIFTY 500 Total Return Index",
+    "last_updated_date": "26 Feb 2026",
+    "source_url": "https://www.indmoney.com/mutual-funds/hdfc-flexi-cap-fund-direct-plan-growth-option-3184",
+    "aliases": [
+      "hdfc flexi cap fund",
+      "hdfc flexi cap",
+      "hdfc flexi cap fund direct growth"
+    ]
+  },
+  {
+    "fund_name": "SBI Large Cap Fund Direct Growth",
+    "amc": "SBI Mutual Fund",
+    "category": "Large-Cap",
+    "expense_ratio": "0.8%",
+    "exit_load": "1%",
+    "minimum_sip": "₹500",
+    "minimum_lump_sum": "₹5,000",
+    "lock_in_period": "0",
+    "riskometer": "High",
+    "benchmark_index": "BSE 100 TRI",
+    "last_updated_date": "27 Feb 2026",
+    "source_url": "https://www.indmoney.com/mutual-funds/sbi-large-cap-fund-direct-growth-2749",
+    "aliases": [
+      "sbi large cap fund",
+      "sbi large cap",
+      "sbi large cap direct growth"
+    ]
+  },
+  {
+    "fund_name": "ICICI Prudential Large Cap Fund Direct Plan Growth",
+    "amc": "ICICI Prudential Mutual Fund",
+    "category": "Large-Cap",
+    "expense_ratio": "1%",
+    "exit_load": "1%",
+    "minimum_sip": "₹100",
+    "minimum_lump_sum": "₹5,000",
+    "lock_in_period": "0",
+    "riskometer": "Very High",
+    "benchmark_index": "Nifty 100 TRI",
+    "last_updated_date": "27 Feb 2026",
+    "source_url": "https://www.indmoney.com/mutual-funds/icici-prudential-large-cap-fund-direct-plan-growth-1135",
+    "aliases": [
+      "icici prudential large cap fund",
+      "icici large cap fund",
+      "icici large cap"
+    ]
+  },
+  {
+    "fund_name": "SBI ELSS Tax Saver Fund Direct Growth",
+    "amc": "SBI Mutual Fund",
+    "category": "ELSS (Tax Savings)",
+    "expense_ratio": "0.9%",
+    "exit_load": "0%",
+    "minimum_sip": "₹500",
+    "minimum_lump_sum": "₹500",
+    "lock_in_period": "3 Years",
+    "riskometer": "Very High",
+    "benchmark_index": "BSE 500 TRI",
+    "last_updated_date": "27 Feb 2026",
+    "source_url": "https://www.indmoney.com/mutual-funds/sbi-elss-tax-saver-fund-direct-growth-2754",
+    "aliases": [
+      "sbi elss fund",
+      "sbi elss tax saver fund",
+      "sbi tax saver fund",
+      "elss sbi"
+    ]
+  },
+  {
+    "fund_name": "Parag Parikh Flexi Cap Fund Direct Growth",
+    "amc": "PPFAS Mutual Fund",
+    "category": "Flexi Cap",
+    "expense_ratio": "0.6%",
+    "exit_load": "2%",
+    "minimum_sip": "₹1,000",
+    "minimum_lump_sum": "₹1,000",
+    "lock_in_period": "0",
+    "riskometer": "Very High",
+    "benchmark_index": "NIFTY 500 Total Return Index",
+    "last_updated_date": "26 Feb 2026",
+    "source_url": "https://www.indmoney.com/mutual-funds/parag-parikh-flexi-cap-fund-direct-growth-2449",
+    "aliases": [
+      "parag parikh flexi cap fund",
+      "ppfas flexi cap fund",
+      "parag parikh flexi cap"
+    ]
+  }
+]
